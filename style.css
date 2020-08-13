@@ -1,0 +1,17 @@
+#wrapper {
+  text-align: center;
+}
+
+#table {
+  position: absolute;
+  top: 230px;
+  left: 50%;
+  margin-left: -270px;
+}
+
+#table_data {
+  border: solid black;
+  padding: 200px;
+  position: relative;
+  background-color: rgba(122, 87, 87, 0.5);
+}
